@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.8
-Release:	%mkrel 11
+Release:	%mkrel 12
 Summary:	Package to represent and manipulate integers
 License:	PHP License
 Group:		Development/PHP
