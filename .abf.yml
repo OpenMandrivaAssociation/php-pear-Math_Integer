@@ -1,2 +1,4 @@
+removed_sources:
+  Math_Integer-0.8.tar.bz2: a26e0cdc8c8c79582546ecc2163e7bdfb091da44
 sources:
-  "Math_Integer-0.8.tar.bz2": a26e0cdc8c8c79582546ecc2163e7bdfb091da44
+  Math_Integer-0.9.0.tgz: 6adfb43526cdb5f8243d9d8f72bb4da1d44b15a2
