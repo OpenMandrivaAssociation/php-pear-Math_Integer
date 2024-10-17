@@ -8,7 +8,7 @@ Release:	2
 Summary:	Package to represent and manipulate integers
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_Integer/
+URL:		https://pear.php.net/package/Math_Integer/
 Source0:	http://download.pear.php.net/package/Math_Integer-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
